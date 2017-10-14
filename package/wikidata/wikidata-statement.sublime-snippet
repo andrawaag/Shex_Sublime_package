@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+ {
+	p:${1} {
+       ps:${1}	${2} ;
+       pq:${3}	$4 ;
+       prov:wasDerivedFrom {
+          pr:$5	$6 ;
+       }
+	  } 
+	}
+]]></content>
+   <tabTrigger>wikidata-statement</tabTrigger>
+   <scope>source.shex</scope>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
