@@ -1,0 +1,3133 @@
+{
+    "completions": [
+        {
+            "contents": "schema:Thing",
+            "trigger": "Thing"
+        },
+        {
+            "contents": "schema:Action",
+            "trigger": "Action"
+        },
+        {
+            "contents": "schema:AchieveAction",
+            "trigger": "AchieveAction"
+        },
+        {
+            "contents": "schema:LoseAction",
+            "trigger": "LoseAction"
+        },
+        {
+            "contents": "schema:TieAction",
+            "trigger": "TieAction"
+        },
+        {
+            "contents": "schema:WinAction",
+            "trigger": "WinAction"
+        },
+        {
+            "contents": "schema:AssessAction",
+            "trigger": "AssessAction"
+        },
+        {
+            "contents": "schema:ChooseAction",
+            "trigger": "ChooseAction"
+        },
+        {
+            "contents": "schema:VoteAction",
+            "trigger": "VoteAction"
+        },
+        {
+            "contents": "schema:IgnoreAction",
+            "trigger": "IgnoreAction"
+        },
+        {
+            "contents": "schema:ReactAction",
+            "trigger": "ReactAction"
+        },
+        {
+            "contents": "schema:AgreeAction",
+            "trigger": "AgreeAction"
+        },
+        {
+            "contents": "schema:DisagreeAction",
+            "trigger": "DisagreeAction"
+        },
+        {
+            "contents": "schema:DislikeAction",
+            "trigger": "DislikeAction"
+        },
+        {
+            "contents": "schema:EndorseAction",
+            "trigger": "EndorseAction"
+        },
+        {
+            "contents": "schema:LikeAction",
+            "trigger": "LikeAction"
+        },
+        {
+            "contents": "schema:WantAction",
+            "trigger": "WantAction"
+        },
+        {
+            "contents": "schema:ReviewAction",
+            "trigger": "ReviewAction"
+        },
+        {
+            "contents": "schema:ConsumeAction",
+            "trigger": "ConsumeAction"
+        },
+        {
+            "contents": "schema:DrinkAction",
+            "trigger": "DrinkAction"
+        },
+        {
+            "contents": "schema:EatAction",
+            "trigger": "EatAction"
+        },
+        {
+            "contents": "schema:InstallAction",
+            "trigger": "InstallAction"
+        },
+        {
+            "contents": "schema:ListenAction",
+            "trigger": "ListenAction"
+        },
+        {
+            "contents": "schema:ReadAction",
+            "trigger": "ReadAction"
+        },
+        {
+            "contents": "schema:UseAction",
+            "trigger": "UseAction"
+        },
+        {
+            "contents": "schema:WearAction",
+            "trigger": "WearAction"
+        },
+        {
+            "contents": "schema:ViewAction",
+            "trigger": "ViewAction"
+        },
+        {
+            "contents": "schema:WatchAction",
+            "trigger": "WatchAction"
+        },
+        {
+            "contents": "schema:ControlAction",
+            "trigger": "ControlAction"
+        },
+        {
+            "contents": "schema:ActivateAction",
+            "trigger": "ActivateAction"
+        },
+        {
+            "contents": "schema:DeactivateAction",
+            "trigger": "DeactivateAction"
+        },
+        {
+            "contents": "schema:ResumeAction",
+            "trigger": "ResumeAction"
+        },
+        {
+            "contents": "schema:SuspendAction",
+            "trigger": "SuspendAction"
+        },
+        {
+            "contents": "schema:CreateAction",
+            "trigger": "CreateAction"
+        },
+        {
+            "contents": "schema:CookAction",
+            "trigger": "CookAction"
+        },
+        {
+            "contents": "schema:DrawAction",
+            "trigger": "DrawAction"
+        },
+        {
+            "contents": "schema:FilmAction",
+            "trigger": "FilmAction"
+        },
+        {
+            "contents": "schema:PaintAction",
+            "trigger": "PaintAction"
+        },
+        {
+            "contents": "schema:PhotographAction",
+            "trigger": "PhotographAction"
+        },
+        {
+            "contents": "schema:WriteAction",
+            "trigger": "WriteAction"
+        },
+        {
+            "contents": "schema:FindAction",
+            "trigger": "FindAction"
+        },
+        {
+            "contents": "schema:CheckAction",
+            "trigger": "CheckAction"
+        },
+        {
+            "contents": "schema:DiscoverAction",
+            "trigger": "DiscoverAction"
+        },
+        {
+            "contents": "schema:TrackAction",
+            "trigger": "TrackAction"
+        },
+        {
+            "contents": "schema:InteractAction",
+            "trigger": "InteractAction"
+        },
+        {
+            "contents": "schema:BefriendAction",
+            "trigger": "BefriendAction"
+        },
+        {
+            "contents": "schema:CommunicateAction",
+            "trigger": "CommunicateAction"
+        },
+        {
+            "contents": "schema:AskAction",
+            "trigger": "AskAction"
+        },
+        {
+            "contents": "schema:CheckInAction",
+            "trigger": "CheckInAction"
+        },
+        {
+            "contents": "schema:CheckOutAction",
+            "trigger": "CheckOutAction"
+        },
+        {
+            "contents": "schema:CommentAction",
+            "trigger": "CommentAction"
+        },
+        {
+            "contents": "schema:InformAction",
+            "trigger": "InformAction"
+        },
+        {
+            "contents": "schema:ConfirmAction",
+            "trigger": "ConfirmAction"
+        },
+        {
+            "contents": "schema:RsvpAction",
+            "trigger": "RsvpAction"
+        },
+        {
+            "contents": "schema:InviteAction",
+            "trigger": "InviteAction"
+        },
+        {
+            "contents": "schema:ReplyAction",
+            "trigger": "ReplyAction"
+        },
+        {
+            "contents": "schema:ShareAction",
+            "trigger": "ShareAction"
+        },
+        {
+            "contents": "schema:FollowAction",
+            "trigger": "FollowAction"
+        },
+        {
+            "contents": "schema:JoinAction",
+            "trigger": "JoinAction"
+        },
+        {
+            "contents": "schema:LeaveAction",
+            "trigger": "LeaveAction"
+        },
+        {
+            "contents": "schema:MarryAction",
+            "trigger": "MarryAction"
+        },
+        {
+            "contents": "schema:RegisterAction",
+            "trigger": "RegisterAction"
+        },
+        {
+            "contents": "schema:SubscribeAction",
+            "trigger": "SubscribeAction"
+        },
+        {
+            "contents": "schema:UnRegisterAction",
+            "trigger": "UnRegisterAction"
+        },
+        {
+            "contents": "schema:MoveAction",
+            "trigger": "MoveAction"
+        },
+        {
+            "contents": "schema:ArriveAction",
+            "trigger": "ArriveAction"
+        },
+        {
+            "contents": "schema:DepartAction",
+            "trigger": "DepartAction"
+        },
+        {
+            "contents": "schema:TravelAction",
+            "trigger": "TravelAction"
+        },
+        {
+            "contents": "schema:OrganizeAction",
+            "trigger": "OrganizeAction"
+        },
+        {
+            "contents": "schema:AllocateAction",
+            "trigger": "AllocateAction"
+        },
+        {
+            "contents": "schema:AcceptAction",
+            "trigger": "AcceptAction"
+        },
+        {
+            "contents": "schema:AssignAction",
+            "trigger": "AssignAction"
+        },
+        {
+            "contents": "schema:AuthorizeAction",
+            "trigger": "AuthorizeAction"
+        },
+        {
+            "contents": "schema:RejectAction",
+            "trigger": "RejectAction"
+        },
+        {
+            "contents": "schema:ApplyAction",
+            "trigger": "ApplyAction"
+        },
+        {
+            "contents": "schema:BookmarkAction",
+            "trigger": "BookmarkAction"
+        },
+        {
+            "contents": "schema:PlanAction",
+            "trigger": "PlanAction"
+        },
+        {
+            "contents": "schema:CancelAction",
+            "trigger": "CancelAction"
+        },
+        {
+            "contents": "schema:ReserveAction",
+            "trigger": "ReserveAction"
+        },
+        {
+            "contents": "schema:ScheduleAction",
+            "trigger": "ScheduleAction"
+        },
+        {
+            "contents": "schema:PlayAction",
+            "trigger": "PlayAction"
+        },
+        {
+            "contents": "schema:ExerciseAction",
+            "trigger": "ExerciseAction"
+        },
+        {
+            "contents": "schema:PerformAction",
+            "trigger": "PerformAction"
+        },
+        {
+            "contents": "schema:SearchAction",
+            "trigger": "SearchAction"
+        },
+        {
+            "contents": "schema:TradeAction",
+            "trigger": "TradeAction"
+        },
+        {
+            "contents": "schema:BuyAction",
+            "trigger": "BuyAction"
+        },
+        {
+            "contents": "schema:DonateAction",
+            "trigger": "DonateAction"
+        },
+        {
+            "contents": "schema:OrderAction",
+            "trigger": "OrderAction"
+        },
+        {
+            "contents": "schema:PayAction",
+            "trigger": "PayAction"
+        },
+        {
+            "contents": "schema:PreOrderAction",
+            "trigger": "PreOrderAction"
+        },
+        {
+            "contents": "schema:QuoteAction",
+            "trigger": "QuoteAction"
+        },
+        {
+            "contents": "schema:RentAction",
+            "trigger": "RentAction"
+        },
+        {
+            "contents": "schema:SellAction",
+            "trigger": "SellAction"
+        },
+        {
+            "contents": "schema:TipAction",
+            "trigger": "TipAction"
+        },
+        {
+            "contents": "schema:TransferAction",
+            "trigger": "TransferAction"
+        },
+        {
+            "contents": "schema:BorrowAction",
+            "trigger": "BorrowAction"
+        },
+        {
+            "contents": "schema:DownloadAction",
+            "trigger": "DownloadAction"
+        },
+        {
+            "contents": "schema:GiveAction",
+            "trigger": "GiveAction"
+        },
+        {
+            "contents": "schema:LendAction",
+            "trigger": "LendAction"
+        },
+        {
+            "contents": "schema:MoneyTransfer",
+            "trigger": "MoneyTransfer"
+        },
+        {
+            "contents": "schema:ReceiveAction",
+            "trigger": "ReceiveAction"
+        },
+        {
+            "contents": "schema:ReturnAction",
+            "trigger": "ReturnAction"
+        },
+        {
+            "contents": "schema:SendAction",
+            "trigger": "SendAction"
+        },
+        {
+            "contents": "schema:TakeAction",
+            "trigger": "TakeAction"
+        },
+        {
+            "contents": "schema:UpdateAction",
+            "trigger": "UpdateAction"
+        },
+        {
+            "contents": "schema:AddAction",
+            "trigger": "AddAction"
+        },
+        {
+            "contents": "schema:InsertAction",
+            "trigger": "InsertAction"
+        },
+        {
+            "contents": "schema:AppendAction",
+            "trigger": "AppendAction"
+        },
+        {
+            "contents": "schema:PrependAction",
+            "trigger": "PrependAction"
+        },
+        {
+            "contents": "schema:DeleteAction",
+            "trigger": "DeleteAction"
+        },
+        {
+            "contents": "schema:ReplaceAction",
+            "trigger": "ReplaceAction"
+        },
+        {
+            "contents": "schema:CreativeWork",
+            "trigger": "CreativeWork"
+        },
+        {
+            "contents": "schema:Article",
+            "trigger": "Article"
+        },
+        {
+            "contents": "schema:AdvertiserContentArticle",
+            "trigger": "AdvertiserContentArticle"
+        },
+        {
+            "contents": "schema:NewsArticle",
+            "trigger": "NewsArticle"
+        },
+        {
+            "contents": "schema:AnalysisNewsArticle",
+            "trigger": "AnalysisNewsArticle"
+        },
+        {
+            "contents": "schema:BackgroundNewsArticle",
+            "trigger": "BackgroundNewsArticle"
+        },
+        {
+            "contents": "schema:OpinionNewsArticle",
+            "trigger": "OpinionNewsArticle"
+        },
+        {
+            "contents": "schema:ReportageNewsArticle",
+            "trigger": "ReportageNewsArticle"
+        },
+        {
+            "contents": "schema:ReviewNewsArticle",
+            "trigger": "ReviewNewsArticle"
+        },
+        {
+            "contents": "schema:Report",
+            "trigger": "Report"
+        },
+        {
+            "contents": "schema:SatiricalArticle",
+            "trigger": "SatiricalArticle"
+        },
+        {
+            "contents": "schema:ScholarlyArticle",
+            "trigger": "ScholarlyArticle"
+        },
+        {
+            "contents": "schema:MedicalScholarlyArticle",
+            "trigger": "MedicalScholarlyArticle"
+        },
+        {
+            "contents": "schema:SocialMediaPosting",
+            "trigger": "SocialMediaPosting"
+        },
+        {
+            "contents": "schema:BlogPosting",
+            "trigger": "BlogPosting"
+        },
+        {
+            "contents": "schema:LiveBlogPosting",
+            "trigger": "LiveBlogPosting"
+        },
+        {
+            "contents": "schema:DiscussionForumPosting",
+            "trigger": "DiscussionForumPosting"
+        },
+        {
+            "contents": "schema:TechArticle",
+            "trigger": "TechArticle"
+        },
+        {
+            "contents": "schema:APIReference",
+            "trigger": "APIReference"
+        },
+        {
+            "contents": "schema:Atlas",
+            "trigger": "Atlas"
+        },
+        {
+            "contents": "schema:Blog",
+            "trigger": "Blog"
+        },
+        {
+            "contents": "schema:Book",
+            "trigger": "Book"
+        },
+        {
+            "contents": "schema:Audiobook",
+            "trigger": "Audiobook"
+        },
+        {
+            "contents": "schema:CategoryCodeSet",
+            "trigger": "CategoryCodeSet"
+        },
+        {
+            "contents": "schema:Chapter",
+            "trigger": "Chapter"
+        },
+        {
+            "contents": "schema:Clip",
+            "trigger": "Clip"
+        },
+        {
+            "contents": "schema:MovieClip",
+            "trigger": "MovieClip"
+        },
+        {
+            "contents": "schema:RadioClip",
+            "trigger": "RadioClip"
+        },
+        {
+            "contents": "schema:TVClip",
+            "trigger": "TVClip"
+        },
+        {
+            "contents": "schema:VideoGameClip",
+            "trigger": "VideoGameClip"
+        },
+        {
+            "contents": "schema:Code",
+            "trigger": "Code"
+        },
+        {
+            "contents": "schema:Collection",
+            "trigger": "Collection"
+        },
+        {
+            "contents": "schema:ComicStory",
+            "trigger": "ComicStory"
+        },
+        {
+            "contents": "schema:ComicCoverArt",
+            "trigger": "ComicCoverArt"
+        },
+        {
+            "contents": "schema:Comment",
+            "trigger": "Comment"
+        },
+        {
+            "contents": "schema:Answer",
+            "trigger": "Answer"
+        },
+        {
+            "contents": "schema:Conversation",
+            "trigger": "Conversation"
+        },
+        {
+            "contents": "schema:Course",
+            "trigger": "Course"
+        },
+        {
+            "contents": "schema:CreativeWorkSeason",
+            "trigger": "CreativeWorkSeason"
+        },
+        {
+            "contents": "schema:RadioSeason",
+            "trigger": "RadioSeason"
+        },
+        {
+            "contents": "schema:TVSeason",
+            "trigger": "TVSeason"
+        },
+        {
+            "contents": "schema:CreativeWorkSeries",
+            "trigger": "CreativeWorkSeries"
+        },
+        {
+            "contents": "schema:BookSeries",
+            "trigger": "BookSeries"
+        },
+        {
+            "contents": "schema:MovieSeries",
+            "trigger": "MovieSeries"
+        },
+        {
+            "contents": "schema:Periodical",
+            "trigger": "Periodical"
+        },
+        {
+            "contents": "schema:ComicSeries",
+            "trigger": "ComicSeries"
+        },
+        {
+            "contents": "schema:Newspaper",
+            "trigger": "Newspaper"
+        },
+        {
+            "contents": "schema:RadioSeries",
+            "trigger": "RadioSeries"
+        },
+        {
+            "contents": "schema:TVSeries",
+            "trigger": "TVSeries"
+        },
+        {
+            "contents": "schema:VideoGameSeries",
+            "trigger": "VideoGameSeries"
+        },
+        {
+            "contents": "schema:DataCatalog",
+            "trigger": "DataCatalog"
+        },
+        {
+            "contents": "schema:Dataset",
+            "trigger": "Dataset"
+        },
+        {
+            "contents": "schema:DataFeed",
+            "trigger": "DataFeed"
+        },
+        {
+            "contents": "schema:CompleteDataFeed",
+            "trigger": "CompleteDataFeed"
+        },
+        {
+            "contents": "schema:Diet",
+            "trigger": "Diet"
+        },
+        {
+            "contents": "schema:DigitalDocument",
+            "trigger": "DigitalDocument"
+        },
+        {
+            "contents": "schema:NoteDigitalDocument",
+            "trigger": "NoteDigitalDocument"
+        },
+        {
+            "contents": "schema:PresentationDigitalDocument",
+            "trigger": "PresentationDigitalDocument"
+        },
+        {
+            "contents": "schema:SpreadsheetDigitalDocument",
+            "trigger": "SpreadsheetDigitalDocument"
+        },
+        {
+            "contents": "schema:TextDigitalDocument",
+            "trigger": "TextDigitalDocument"
+        },
+        {
+            "contents": "schema:Episode",
+            "trigger": "Episode"
+        },
+        {
+            "contents": "schema:RadioEpisode",
+            "trigger": "RadioEpisode"
+        },
+        {
+            "contents": "schema:TVEpisode",
+            "trigger": "TVEpisode"
+        },
+        {
+            "contents": "schema:ExercisePlan",
+            "trigger": "ExercisePlan"
+        },
+        {
+            "contents": "schema:Game",
+            "trigger": "Game"
+        },
+        {
+            "contents": "schema:VideoGame",
+            "trigger": "VideoGame"
+        },
+        {
+            "contents": "schema:HowTo",
+            "trigger": "HowTo"
+        },
+        {
+            "contents": "schema:Recipe",
+            "trigger": "Recipe"
+        },
+        {
+            "contents": "schema:HowToDirection",
+            "trigger": "HowToDirection"
+        },
+        {
+            "contents": "schema:HowToSection",
+            "trigger": "HowToSection"
+        },
+        {
+            "contents": "schema:HowToStep",
+            "trigger": "HowToStep"
+        },
+        {
+            "contents": "schema:HowToTip",
+            "trigger": "HowToTip"
+        },
+        {
+            "contents": "schema:Legislation",
+            "trigger": "Legislation"
+        },
+        {
+            "contents": "schema:LegislationObject",
+            "trigger": "LegislationObject"
+        },
+        {
+            "contents": "schema:Map",
+            "trigger": "Map"
+        },
+        {
+            "contents": "schema:MediaObject",
+            "trigger": "MediaObject"
+        },
+        {
+            "contents": "schema:AudioObject",
+            "trigger": "AudioObject"
+        },
+        {
+            "contents": "schema:DataDownload",
+            "trigger": "DataDownload"
+        },
+        {
+            "contents": "schema:ImageObject",
+            "trigger": "ImageObject"
+        },
+        {
+            "contents": "schema:Barcode",
+            "trigger": "Barcode"
+        },
+        {
+            "contents": "schema:MusicVideoObject",
+            "trigger": "MusicVideoObject"
+        },
+        {
+            "contents": "schema:VideoObject",
+            "trigger": "VideoObject"
+        },
+        {
+            "contents": "schema:Menu",
+            "trigger": "Menu"
+        },
+        {
+            "contents": "schema:MenuSection",
+            "trigger": "MenuSection"
+        },
+        {
+            "contents": "schema:Message",
+            "trigger": "Message"
+        },
+        {
+            "contents": "schema:EmailMessage",
+            "trigger": "EmailMessage"
+        },
+        {
+            "contents": "schema:Movie",
+            "trigger": "Movie"
+        },
+        {
+            "contents": "schema:MusicComposition",
+            "trigger": "MusicComposition"
+        },
+        {
+            "contents": "schema:MusicPlaylist",
+            "trigger": "MusicPlaylist"
+        },
+        {
+            "contents": "schema:MusicAlbum",
+            "trigger": "MusicAlbum"
+        },
+        {
+            "contents": "schema:MusicRelease",
+            "trigger": "MusicRelease"
+        },
+        {
+            "contents": "schema:MusicRecording",
+            "trigger": "MusicRecording"
+        },
+        {
+            "contents": "schema:Painting",
+            "trigger": "Painting"
+        },
+        {
+            "contents": "schema:Photograph",
+            "trigger": "Photograph"
+        },
+        {
+            "contents": "schema:PublicationIssue",
+            "trigger": "PublicationIssue"
+        },
+        {
+            "contents": "schema:ComicIssue",
+            "trigger": "ComicIssue"
+        },
+        {
+            "contents": "schema:PublicationVolume",
+            "trigger": "PublicationVolume"
+        },
+        {
+            "contents": "schema:Question",
+            "trigger": "Question"
+        },
+        {
+            "contents": "schema:Quotation",
+            "trigger": "Quotation"
+        },
+        {
+            "contents": "schema:Review",
+            "trigger": "Review"
+        },
+        {
+            "contents": "schema:ClaimReview",
+            "trigger": "ClaimReview"
+        },
+        {
+            "contents": "schema:CriticReview",
+            "trigger": "CriticReview"
+        },
+        {
+            "contents": "schema:EmployerReview",
+            "trigger": "EmployerReview"
+        },
+        {
+            "contents": "schema:UserReview",
+            "trigger": "UserReview"
+        },
+        {
+            "contents": "schema:Sculpture",
+            "trigger": "Sculpture"
+        },
+        {
+            "contents": "schema:Season",
+            "trigger": "Season"
+        },
+        {
+            "contents": "schema:Series",
+            "trigger": "Series"
+        },
+        {
+            "contents": "schema:SoftwareApplication",
+            "trigger": "SoftwareApplication"
+        },
+        {
+            "contents": "schema:MobileApplication",
+            "trigger": "MobileApplication"
+        },
+        {
+            "contents": "schema:WebApplication",
+            "trigger": "WebApplication"
+        },
+        {
+            "contents": "schema:SoftwareSourceCode",
+            "trigger": "SoftwareSourceCode"
+        },
+        {
+            "contents": "schema:Thesis",
+            "trigger": "Thesis"
+        },
+        {
+            "contents": "schema:VisualArtwork",
+            "trigger": "VisualArtwork"
+        },
+        {
+            "contents": "schema:CoverArt",
+            "trigger": "CoverArt"
+        },
+        {
+            "contents": "schema:WebPage",
+            "trigger": "WebPage"
+        },
+        {
+            "contents": "schema:AboutPage",
+            "trigger": "AboutPage"
+        },
+        {
+            "contents": "schema:CheckoutPage",
+            "trigger": "CheckoutPage"
+        },
+        {
+            "contents": "schema:CollectionPage",
+            "trigger": "CollectionPage"
+        },
+        {
+            "contents": "schema:ImageGallery",
+            "trigger": "ImageGallery"
+        },
+        {
+            "contents": "schema:VideoGallery",
+            "trigger": "VideoGallery"
+        },
+        {
+            "contents": "schema:ContactPage",
+            "trigger": "ContactPage"
+        },
+        {
+            "contents": "schema:FAQPage",
+            "trigger": "FAQPage"
+        },
+        {
+            "contents": "schema:ItemPage",
+            "trigger": "ItemPage"
+        },
+        {
+            "contents": "schema:MedicalWebPage",
+            "trigger": "MedicalWebPage"
+        },
+        {
+            "contents": "schema:ProfilePage",
+            "trigger": "ProfilePage"
+        },
+        {
+            "contents": "schema:QAPage",
+            "trigger": "QAPage"
+        },
+        {
+            "contents": "schema:SearchResultsPage",
+            "trigger": "SearchResultsPage"
+        },
+        {
+            "contents": "schema:WebPageElement",
+            "trigger": "WebPageElement"
+        },
+        {
+            "contents": "schema:SiteNavigationElement",
+            "trigger": "SiteNavigationElement"
+        },
+        {
+            "contents": "schema:Table",
+            "trigger": "Table"
+        },
+        {
+            "contents": "schema:WPAdBlock",
+            "trigger": "WPAdBlock"
+        },
+        {
+            "contents": "schema:WPFooter",
+            "trigger": "WPFooter"
+        },
+        {
+            "contents": "schema:WPHeader",
+            "trigger": "WPHeader"
+        },
+        {
+            "contents": "schema:WPSideBar",
+            "trigger": "WPSideBar"
+        },
+        {
+            "contents": "schema:WebSite",
+            "trigger": "WebSite"
+        },
+        {
+            "contents": "schema:Event",
+            "trigger": "Event"
+        },
+        {
+            "contents": "schema:BusinessEvent",
+            "trigger": "BusinessEvent"
+        },
+        {
+            "contents": "schema:ChildrensEvent",
+            "trigger": "ChildrensEvent"
+        },
+        {
+            "contents": "schema:ComedyEvent",
+            "trigger": "ComedyEvent"
+        },
+        {
+            "contents": "schema:CourseInstance",
+            "trigger": "CourseInstance"
+        },
+        {
+            "contents": "schema:DanceEvent",
+            "trigger": "DanceEvent"
+        },
+        {
+            "contents": "schema:DeliveryEvent",
+            "trigger": "DeliveryEvent"
+        },
+        {
+            "contents": "schema:EducationEvent",
+            "trigger": "EducationEvent"
+        },
+        {
+            "contents": "schema:EventSeries",
+            "trigger": "EventSeries"
+        },
+        {
+            "contents": "schema:ExhibitionEvent",
+            "trigger": "ExhibitionEvent"
+        },
+        {
+            "contents": "schema:Festival",
+            "trigger": "Festival"
+        },
+        {
+            "contents": "schema:FoodEvent",
+            "trigger": "FoodEvent"
+        },
+        {
+            "contents": "schema:LiteraryEvent",
+            "trigger": "LiteraryEvent"
+        },
+        {
+            "contents": "schema:MusicEvent",
+            "trigger": "MusicEvent"
+        },
+        {
+            "contents": "schema:PublicationEvent",
+            "trigger": "PublicationEvent"
+        },
+        {
+            "contents": "schema:BroadcastEvent",
+            "trigger": "BroadcastEvent"
+        },
+        {
+            "contents": "schema:OnDemandEvent",
+            "trigger": "OnDemandEvent"
+        },
+        {
+            "contents": "schema:SaleEvent",
+            "trigger": "SaleEvent"
+        },
+        {
+            "contents": "schema:ScreeningEvent",
+            "trigger": "ScreeningEvent"
+        },
+        {
+            "contents": "schema:SocialEvent",
+            "trigger": "SocialEvent"
+        },
+        {
+            "contents": "schema:SportsEvent",
+            "trigger": "SportsEvent"
+        },
+        {
+            "contents": "schema:TheaterEvent",
+            "trigger": "TheaterEvent"
+        },
+        {
+            "contents": "schema:UserInteraction",
+            "trigger": "UserInteraction"
+        },
+        {
+            "contents": "schema:UserBlocks",
+            "trigger": "UserBlocks"
+        },
+        {
+            "contents": "schema:UserCheckins",
+            "trigger": "UserCheckins"
+        },
+        {
+            "contents": "schema:UserComments",
+            "trigger": "UserComments"
+        },
+        {
+            "contents": "schema:UserDownloads",
+            "trigger": "UserDownloads"
+        },
+        {
+            "contents": "schema:UserLikes",
+            "trigger": "UserLikes"
+        },
+        {
+            "contents": "schema:UserPageVisits",
+            "trigger": "UserPageVisits"
+        },
+        {
+            "contents": "schema:UserPlays",
+            "trigger": "UserPlays"
+        },
+        {
+            "contents": "schema:UserPlusOnes",
+            "trigger": "UserPlusOnes"
+        },
+        {
+            "contents": "schema:UserTweets",
+            "trigger": "UserTweets"
+        },
+        {
+            "contents": "schema:VisualArtsEvent",
+            "trigger": "VisualArtsEvent"
+        },
+        {
+            "contents": "schema:Intangible",
+            "trigger": "Intangible"
+        },
+        {
+            "contents": "schema:AlignmentObject",
+            "trigger": "AlignmentObject"
+        },
+        {
+            "contents": "schema:Audience",
+            "trigger": "Audience"
+        },
+        {
+            "contents": "schema:BusinessAudience",
+            "trigger": "BusinessAudience"
+        },
+        {
+            "contents": "schema:EducationalAudience",
+            "trigger": "EducationalAudience"
+        },
+        {
+            "contents": "schema:MedicalAudience",
+            "trigger": "MedicalAudience"
+        },
+        {
+            "contents": "schema:Patient",
+            "trigger": "Patient"
+        },
+        {
+            "contents": "schema:PeopleAudience",
+            "trigger": "PeopleAudience"
+        },
+        {
+            "contents": "schema:ParentAudience",
+            "trigger": "ParentAudience"
+        },
+        {
+            "contents": "schema:BedDetails",
+            "trigger": "BedDetails"
+        },
+        {
+            "contents": "schema:Brand",
+            "trigger": "Brand"
+        },
+        {
+            "contents": "schema:BroadcastChannel",
+            "trigger": "BroadcastChannel"
+        },
+        {
+            "contents": "schema:RadioChannel",
+            "trigger": "RadioChannel"
+        },
+        {
+            "contents": "schema:AMRadioChannel",
+            "trigger": "AMRadioChannel"
+        },
+        {
+            "contents": "schema:FMRadioChannel",
+            "trigger": "FMRadioChannel"
+        },
+        {
+            "contents": "schema:TelevisionChannel",
+            "trigger": "TelevisionChannel"
+        },
+        {
+            "contents": "schema:BroadcastFrequencySpecification",
+            "trigger": "BroadcastFrequencySpecification"
+        },
+        {
+            "contents": "schema:BusTrip",
+            "trigger": "BusTrip"
+        },
+        {
+            "contents": "schema:CategoryCode",
+            "trigger": "CategoryCode"
+        },
+        {
+            "contents": "schema:MedicalCode",
+            "trigger": "MedicalCode"
+        },
+        {
+            "contents": "schema:Class",
+            "trigger": "Class"
+        },
+        {
+            "contents": "schema:ComputerLanguage",
+            "trigger": "ComputerLanguage"
+        },
+        {
+            "contents": "schema:DataFeedItem",
+            "trigger": "DataFeedItem"
+        },
+        {
+            "contents": "schema:Demand",
+            "trigger": "Demand"
+        },
+        {
+            "contents": "schema:DigitalDocumentPermission",
+            "trigger": "DigitalDocumentPermission"
+        },
+        {
+            "contents": "schema:EntryPoint",
+            "trigger": "EntryPoint"
+        },
+        {
+            "contents": "schema:Enumeration",
+            "trigger": "Enumeration"
+        },
+        {
+            "contents": "schema:ActionStatusType",
+            "trigger": "ActionStatusType"
+        },
+        {
+            "contents": "schema:BoardingPolicyType",
+            "trigger": "BoardingPolicyType"
+        },
+        {
+            "contents": "schema:BookFormatType",
+            "trigger": "BookFormatType"
+        },
+        {
+            "contents": "schema:BusinessEntityType",
+            "trigger": "BusinessEntityType"
+        },
+        {
+            "contents": "schema:BusinessFunction",
+            "trigger": "BusinessFunction"
+        },
+        {
+            "contents": "schema:ContactPointOption",
+            "trigger": "ContactPointOption"
+        },
+        {
+            "contents": "schema:DayOfWeek",
+            "trigger": "DayOfWeek"
+        },
+        {
+            "contents": "schema:DeliveryMethod",
+            "trigger": "DeliveryMethod"
+        },
+        {
+            "contents": "schema:LockerDelivery",
+            "trigger": "LockerDelivery"
+        },
+        {
+            "contents": "schema:ParcelService",
+            "trigger": "ParcelService"
+        },
+        {
+            "contents": "schema:DigitalDocumentPermissionType",
+            "trigger": "DigitalDocumentPermissionType"
+        },
+        {
+            "contents": "schema:EventStatusType",
+            "trigger": "EventStatusType"
+        },
+        {
+            "contents": "schema:GamePlayMode",
+            "trigger": "GamePlayMode"
+        },
+        {
+            "contents": "schema:GameServerStatus",
+            "trigger": "GameServerStatus"
+        },
+        {
+            "contents": "schema:GenderType",
+            "trigger": "GenderType"
+        },
+        {
+            "contents": "schema:ItemAvailability",
+            "trigger": "ItemAvailability"
+        },
+        {
+            "contents": "schema:ItemListOrderType",
+            "trigger": "ItemListOrderType"
+        },
+        {
+            "contents": "schema:LegalForceStatus",
+            "trigger": "LegalForceStatus"
+        },
+        {
+            "contents": "schema:LegalValueLevel",
+            "trigger": "LegalValueLevel"
+        },
+        {
+            "contents": "schema:MapCategoryType",
+            "trigger": "MapCategoryType"
+        },
+        {
+            "contents": "schema:MedicalEnumeration",
+            "trigger": "MedicalEnumeration"
+        },
+        {
+            "contents": "schema:DrugClass",
+            "trigger": "DrugClass"
+        },
+        {
+            "contents": "schema:DrugCost",
+            "trigger": "DrugCost"
+        },
+        {
+            "contents": "schema:DrugCostCategory",
+            "trigger": "DrugCostCategory"
+        },
+        {
+            "contents": "schema:DrugPregnancyCategory",
+            "trigger": "DrugPregnancyCategory"
+        },
+        {
+            "contents": "schema:DrugPrescriptionStatus",
+            "trigger": "DrugPrescriptionStatus"
+        },
+        {
+            "contents": "schema:InfectiousAgentClass",
+            "trigger": "InfectiousAgentClass"
+        },
+        {
+            "contents": "schema:MedicalDevicePurpose",
+            "trigger": "MedicalDevicePurpose"
+        },
+        {
+            "contents": "schema:MedicalEvidenceLevel",
+            "trigger": "MedicalEvidenceLevel"
+        },
+        {
+            "contents": "schema:MedicalImagingTechnique",
+            "trigger": "MedicalImagingTechnique"
+        },
+        {
+            "contents": "schema:MedicalObservationalStudyDesign",
+            "trigger": "MedicalObservationalStudyDesign"
+        },
+        {
+            "contents": "schema:MedicalProcedureType",
+            "trigger": "MedicalProcedureType"
+        },
+        {
+            "contents": "schema:MedicalSpecialty",
+            "trigger": "MedicalSpecialty"
+        },
+        {
+            "contents": "schema:MedicalStudyStatus",
+            "trigger": "MedicalStudyStatus"
+        },
+        {
+            "contents": "schema:MedicalTrialDesign",
+            "trigger": "MedicalTrialDesign"
+        },
+        {
+            "contents": "schema:MedicineSystem",
+            "trigger": "MedicineSystem"
+        },
+        {
+            "contents": "schema:PhysicalExam",
+            "trigger": "PhysicalExam"
+        },
+        {
+            "contents": "schema:MusicAlbumProductionType",
+            "trigger": "MusicAlbumProductionType"
+        },
+        {
+            "contents": "schema:MusicAlbumReleaseType",
+            "trigger": "MusicAlbumReleaseType"
+        },
+        {
+            "contents": "schema:MusicReleaseFormatType",
+            "trigger": "MusicReleaseFormatType"
+        },
+        {
+            "contents": "schema:OfferItemCondition",
+            "trigger": "OfferItemCondition"
+        },
+        {
+            "contents": "schema:OrderStatus",
+            "trigger": "OrderStatus"
+        },
+        {
+            "contents": "schema:PaymentMethod",
+            "trigger": "PaymentMethod"
+        },
+        {
+            "contents": "schema:PaymentCard",
+            "trigger": "PaymentCard"
+        },
+        {
+            "contents": "schema:CreditCard",
+            "trigger": "CreditCard"
+        },
+        {
+            "contents": "schema:PaymentStatusType",
+            "trigger": "PaymentStatusType"
+        },
+        {
+            "contents": "schema:PhysicalActivityCategory",
+            "trigger": "PhysicalActivityCategory"
+        },
+        {
+            "contents": "schema:QualitativeValue",
+            "trigger": "QualitativeValue"
+        },
+        {
+            "contents": "schema:BedType",
+            "trigger": "BedType"
+        },
+        {
+            "contents": "schema:CarUsageType",
+            "trigger": "CarUsageType"
+        },
+        {
+            "contents": "schema:DriveWheelConfigurationValue",
+            "trigger": "DriveWheelConfigurationValue"
+        },
+        {
+            "contents": "schema:SteeringPositionValue",
+            "trigger": "SteeringPositionValue"
+        },
+        {
+            "contents": "schema:ReservationStatusType",
+            "trigger": "ReservationStatusType"
+        },
+        {
+            "contents": "schema:RestrictedDiet",
+            "trigger": "RestrictedDiet"
+        },
+        {
+            "contents": "schema:RsvpResponseType",
+            "trigger": "RsvpResponseType"
+        },
+        {
+            "contents": "schema:Specialty",
+            "trigger": "Specialty"
+        },
+        {
+            "contents": "schema:WarrantyScope",
+            "trigger": "WarrantyScope"
+        },
+        {
+            "contents": "schema:Flight",
+            "trigger": "Flight"
+        },
+        {
+            "contents": "schema:GameServer",
+            "trigger": "GameServer"
+        },
+        {
+            "contents": "schema:GeospatialGeometry",
+            "trigger": "GeospatialGeometry"
+        },
+        {
+            "contents": "schema:HealthInsurancePlan",
+            "trigger": "HealthInsurancePlan"
+        },
+        {
+            "contents": "schema:HealthPlanCostSharingSpecification",
+            "trigger": "HealthPlanCostSharingSpecification"
+        },
+        {
+            "contents": "schema:HealthPlanFormulary",
+            "trigger": "HealthPlanFormulary"
+        },
+        {
+            "contents": "schema:HealthPlanNetwork",
+            "trigger": "HealthPlanNetwork"
+        },
+        {
+            "contents": "schema:Invoice",
+            "trigger": "Invoice"
+        },
+        {
+            "contents": "schema:ItemList",
+            "trigger": "ItemList"
+        },
+        {
+            "contents": "schema:BreadcrumbList",
+            "trigger": "BreadcrumbList"
+        },
+        {
+            "contents": "schema:OfferCatalog",
+            "trigger": "OfferCatalog"
+        },
+        {
+            "contents": "schema:JobPosting",
+            "trigger": "JobPosting"
+        },
+        {
+            "contents": "schema:Language",
+            "trigger": "Language"
+        },
+        {
+            "contents": "schema:ListItem",
+            "trigger": "ListItem"
+        },
+        {
+            "contents": "schema:HowToItem",
+            "trigger": "HowToItem"
+        },
+        {
+            "contents": "schema:HowToSupply",
+            "trigger": "HowToSupply"
+        },
+        {
+            "contents": "schema:HowToTool",
+            "trigger": "HowToTool"
+        },
+        {
+            "contents": "schema:MenuItem",
+            "trigger": "MenuItem"
+        },
+        {
+            "contents": "schema:Occupation",
+            "trigger": "Occupation"
+        },
+        {
+            "contents": "schema:Offer",
+            "trigger": "Offer"
+        },
+        {
+            "contents": "schema:AggregateOffer",
+            "trigger": "AggregateOffer"
+        },
+        {
+            "contents": "schema:Order",
+            "trigger": "Order"
+        },
+        {
+            "contents": "schema:OrderItem",
+            "trigger": "OrderItem"
+        },
+        {
+            "contents": "schema:ParcelDelivery",
+            "trigger": "ParcelDelivery"
+        },
+        {
+            "contents": "schema:Permit",
+            "trigger": "Permit"
+        },
+        {
+            "contents": "schema:GovernmentPermit",
+            "trigger": "GovernmentPermit"
+        },
+        {
+            "contents": "schema:ProgramMembership",
+            "trigger": "ProgramMembership"
+        },
+        {
+            "contents": "schema:Property",
+            "trigger": "Property"
+        },
+        {
+            "contents": "schema:PropertyValueSpecification",
+            "trigger": "PropertyValueSpecification"
+        },
+        {
+            "contents": "schema:Quantity",
+            "trigger": "Quantity"
+        },
+        {
+            "contents": "schema:Distance",
+            "trigger": "Distance"
+        },
+        {
+            "contents": "schema:Duration",
+            "trigger": "Duration"
+        },
+        {
+            "contents": "schema:Energy",
+            "trigger": "Energy"
+        },
+        {
+            "contents": "schema:Mass",
+            "trigger": "Mass"
+        },
+        {
+            "contents": "schema:Rating",
+            "trigger": "Rating"
+        },
+        {
+            "contents": "schema:AggregateRating",
+            "trigger": "AggregateRating"
+        },
+        {
+            "contents": "schema:EmployerAggregateRating",
+            "trigger": "EmployerAggregateRating"
+        },
+        {
+            "contents": "schema:EndorsementRating",
+            "trigger": "EndorsementRating"
+        },
+        {
+            "contents": "schema:Reservation",
+            "trigger": "Reservation"
+        },
+        {
+            "contents": "schema:BusReservation",
+            "trigger": "BusReservation"
+        },
+        {
+            "contents": "schema:EventReservation",
+            "trigger": "EventReservation"
+        },
+        {
+            "contents": "schema:FlightReservation",
+            "trigger": "FlightReservation"
+        },
+        {
+            "contents": "schema:FoodEstablishmentReservation",
+            "trigger": "FoodEstablishmentReservation"
+        },
+        {
+            "contents": "schema:LodgingReservation",
+            "trigger": "LodgingReservation"
+        },
+        {
+            "contents": "schema:RentalCarReservation",
+            "trigger": "RentalCarReservation"
+        },
+        {
+            "contents": "schema:ReservationPackage",
+            "trigger": "ReservationPackage"
+        },
+        {
+            "contents": "schema:TaxiReservation",
+            "trigger": "TaxiReservation"
+        },
+        {
+            "contents": "schema:TrainReservation",
+            "trigger": "TrainReservation"
+        },
+        {
+            "contents": "schema:Role",
+            "trigger": "Role"
+        },
+        {
+            "contents": "schema:LinkRole",
+            "trigger": "LinkRole"
+        },
+        {
+            "contents": "schema:OrganizationRole",
+            "trigger": "OrganizationRole"
+        },
+        {
+            "contents": "schema:EmployeeRole",
+            "trigger": "EmployeeRole"
+        },
+        {
+            "contents": "schema:PerformanceRole",
+            "trigger": "PerformanceRole"
+        },
+        {
+            "contents": "schema:Schedule",
+            "trigger": "Schedule"
+        },
+        {
+            "contents": "schema:Seat",
+            "trigger": "Seat"
+        },
+        {
+            "contents": "schema:Service",
+            "trigger": "Service"
+        },
+        {
+            "contents": "schema:BroadcastService",
+            "trigger": "BroadcastService"
+        },
+        {
+            "contents": "schema:CableOrSatelliteService",
+            "trigger": "CableOrSatelliteService"
+        },
+        {
+            "contents": "schema:FinancialProduct",
+            "trigger": "FinancialProduct"
+        },
+        {
+            "contents": "schema:BankAccount",
+            "trigger": "BankAccount"
+        },
+        {
+            "contents": "schema:DepositAccount",
+            "trigger": "DepositAccount"
+        },
+        {
+            "contents": "schema:CurrencyConversionService",
+            "trigger": "CurrencyConversionService"
+        },
+        {
+            "contents": "schema:InvestmentOrDeposit",
+            "trigger": "InvestmentOrDeposit"
+        },
+        {
+            "contents": "schema:BrokerageAccount",
+            "trigger": "BrokerageAccount"
+        },
+        {
+            "contents": "schema:InvestmentFund",
+            "trigger": "InvestmentFund"
+        },
+        {
+            "contents": "schema:LoanOrCredit",
+            "trigger": "LoanOrCredit"
+        },
+        {
+            "contents": "schema:MortgageLoan",
+            "trigger": "MortgageLoan"
+        },
+        {
+            "contents": "schema:PaymentService",
+            "trigger": "PaymentService"
+        },
+        {
+            "contents": "schema:FoodService",
+            "trigger": "FoodService"
+        },
+        {
+            "contents": "schema:GovernmentService",
+            "trigger": "GovernmentService"
+        },
+        {
+            "contents": "schema:Taxi",
+            "trigger": "Taxi"
+        },
+        {
+            "contents": "schema:TaxiService",
+            "trigger": "TaxiService"
+        },
+        {
+            "contents": "schema:WebAPI",
+            "trigger": "WebAPI"
+        },
+        {
+            "contents": "schema:ServiceChannel",
+            "trigger": "ServiceChannel"
+        },
+        {
+            "contents": "schema:SpeakableSpecification",
+            "trigger": "SpeakableSpecification"
+        },
+        {
+            "contents": "schema:StructuredValue",
+            "trigger": "StructuredValue"
+        },
+        {
+            "contents": "schema:ContactPoint",
+            "trigger": "ContactPoint"
+        },
+        {
+            "contents": "schema:PostalAddress",
+            "trigger": "PostalAddress"
+        },
+        {
+            "contents": "schema:DatedMoneySpecification",
+            "trigger": "DatedMoneySpecification"
+        },
+        {
+            "contents": "schema:EngineSpecification",
+            "trigger": "EngineSpecification"
+        },
+        {
+            "contents": "schema:ExchangeRateSpecification",
+            "trigger": "ExchangeRateSpecification"
+        },
+        {
+            "contents": "schema:GeoCoordinates",
+            "trigger": "GeoCoordinates"
+        },
+        {
+            "contents": "schema:GeoShape",
+            "trigger": "GeoShape"
+        },
+        {
+            "contents": "schema:GeoCircle",
+            "trigger": "GeoCircle"
+        },
+        {
+            "contents": "schema:InteractionCounter",
+            "trigger": "InteractionCounter"
+        },
+        {
+            "contents": "schema:MonetaryAmount",
+            "trigger": "MonetaryAmount"
+        },
+        {
+            "contents": "schema:NutritionInformation",
+            "trigger": "NutritionInformation"
+        },
+        {
+            "contents": "schema:OpeningHoursSpecification",
+            "trigger": "OpeningHoursSpecification"
+        },
+        {
+            "contents": "schema:OwnershipInfo",
+            "trigger": "OwnershipInfo"
+        },
+        {
+            "contents": "schema:PriceSpecification",
+            "trigger": "PriceSpecification"
+        },
+        {
+            "contents": "schema:CompoundPriceSpecification",
+            "trigger": "CompoundPriceSpecification"
+        },
+        {
+            "contents": "schema:DeliveryChargeSpecification",
+            "trigger": "DeliveryChargeSpecification"
+        },
+        {
+            "contents": "schema:PaymentChargeSpecification",
+            "trigger": "PaymentChargeSpecification"
+        },
+        {
+            "contents": "schema:UnitPriceSpecification",
+            "trigger": "UnitPriceSpecification"
+        },
+        {
+            "contents": "schema:PropertyValue",
+            "trigger": "PropertyValue"
+        },
+        {
+            "contents": "schema:LocationFeatureSpecification",
+            "trigger": "LocationFeatureSpecification"
+        },
+        {
+            "contents": "schema:QuantitativeValue",
+            "trigger": "QuantitativeValue"
+        },
+        {
+            "contents": "schema:MonetaryAmountDistribution",
+            "trigger": "MonetaryAmountDistribution"
+        },
+        {
+            "contents": "schema:QuantitativeValueDistribution",
+            "trigger": "QuantitativeValueDistribution"
+        },
+        {
+            "contents": "schema:RepaymentSpecification",
+            "trigger": "RepaymentSpecification"
+        },
+        {
+            "contents": "schema:TypeAndQuantityNode",
+            "trigger": "TypeAndQuantityNode"
+        },
+        {
+            "contents": "schema:WarrantyPromise",
+            "trigger": "WarrantyPromise"
+        },
+        {
+            "contents": "schema:Ticket",
+            "trigger": "Ticket"
+        },
+        {
+            "contents": "schema:TrainTrip",
+            "trigger": "TrainTrip"
+        },
+        {
+            "contents": "schema:MedicalEntity",
+            "trigger": "MedicalEntity"
+        },
+        {
+            "contents": "schema:AnatomicalStructure",
+            "trigger": "AnatomicalStructure"
+        },
+        {
+            "contents": "schema:Bone",
+            "trigger": "Bone"
+        },
+        {
+            "contents": "schema:BrainStructure",
+            "trigger": "BrainStructure"
+        },
+        {
+            "contents": "schema:Joint",
+            "trigger": "Joint"
+        },
+        {
+            "contents": "schema:Ligament",
+            "trigger": "Ligament"
+        },
+        {
+            "contents": "schema:Muscle",
+            "trigger": "Muscle"
+        },
+        {
+            "contents": "schema:Nerve",
+            "trigger": "Nerve"
+        },
+        {
+            "contents": "schema:Vessel",
+            "trigger": "Vessel"
+        },
+        {
+            "contents": "schema:Artery",
+            "trigger": "Artery"
+        },
+        {
+            "contents": "schema:LymphaticVessel",
+            "trigger": "LymphaticVessel"
+        },
+        {
+            "contents": "schema:Vein",
+            "trigger": "Vein"
+        },
+        {
+            "contents": "schema:AnatomicalSystem",
+            "trigger": "AnatomicalSystem"
+        },
+        {
+            "contents": "schema:LifestyleModification",
+            "trigger": "LifestyleModification"
+        },
+        {
+            "contents": "schema:PhysicalActivity",
+            "trigger": "PhysicalActivity"
+        },
+        {
+            "contents": "schema:MedicalCause",
+            "trigger": "MedicalCause"
+        },
+        {
+            "contents": "schema:MedicalCondition",
+            "trigger": "MedicalCondition"
+        },
+        {
+            "contents": "schema:InfectiousDisease",
+            "trigger": "InfectiousDisease"
+        },
+        {
+            "contents": "schema:MedicalSignOrSymptom",
+            "trigger": "MedicalSignOrSymptom"
+        },
+        {
+            "contents": "schema:MedicalSign",
+            "trigger": "MedicalSign"
+        },
+        {
+            "contents": "schema:VitalSign",
+            "trigger": "VitalSign"
+        },
+        {
+            "contents": "schema:MedicalSymptom",
+            "trigger": "MedicalSymptom"
+        },
+        {
+            "contents": "schema:MedicalContraindication",
+            "trigger": "MedicalContraindication"
+        },
+        {
+            "contents": "schema:MedicalDevice",
+            "trigger": "MedicalDevice"
+        },
+        {
+            "contents": "schema:MedicalGuideline",
+            "trigger": "MedicalGuideline"
+        },
+        {
+            "contents": "schema:MedicalGuidelineContraindication",
+            "trigger": "MedicalGuidelineContraindication"
+        },
+        {
+            "contents": "schema:MedicalGuidelineRecommendation",
+            "trigger": "MedicalGuidelineRecommendation"
+        },
+        {
+            "contents": "schema:MedicalIndication",
+            "trigger": "MedicalIndication"
+        },
+        {
+            "contents": "schema:ApprovedIndication",
+            "trigger": "ApprovedIndication"
+        },
+        {
+            "contents": "schema:PreventionIndication",
+            "trigger": "PreventionIndication"
+        },
+        {
+            "contents": "schema:TreatmentIndication",
+            "trigger": "TreatmentIndication"
+        },
+        {
+            "contents": "schema:MedicalIntangible",
+            "trigger": "MedicalIntangible"
+        },
+        {
+            "contents": "schema:DDxElement",
+            "trigger": "DDxElement"
+        },
+        {
+            "contents": "schema:DoseSchedule",
+            "trigger": "DoseSchedule"
+        },
+        {
+            "contents": "schema:MaximumDoseSchedule",
+            "trigger": "MaximumDoseSchedule"
+        },
+        {
+            "contents": "schema:RecommendedDoseSchedule",
+            "trigger": "RecommendedDoseSchedule"
+        },
+        {
+            "contents": "schema:ReportedDoseSchedule",
+            "trigger": "ReportedDoseSchedule"
+        },
+        {
+            "contents": "schema:DrugLegalStatus",
+            "trigger": "DrugLegalStatus"
+        },
+        {
+            "contents": "schema:DrugStrength",
+            "trigger": "DrugStrength"
+        },
+        {
+            "contents": "schema:MedicalConditionStage",
+            "trigger": "MedicalConditionStage"
+        },
+        {
+            "contents": "schema:MedicalProcedure",
+            "trigger": "MedicalProcedure"
+        },
+        {
+            "contents": "schema:DiagnosticProcedure",
+            "trigger": "DiagnosticProcedure"
+        },
+        {
+            "contents": "schema:PalliativeProcedure",
+            "trigger": "PalliativeProcedure"
+        },
+        {
+            "contents": "schema:SurgicalProcedure",
+            "trigger": "SurgicalProcedure"
+        },
+        {
+            "contents": "schema:TherapeuticProcedure",
+            "trigger": "TherapeuticProcedure"
+        },
+        {
+            "contents": "schema:MedicalTherapy",
+            "trigger": "MedicalTherapy"
+        },
+        {
+            "contents": "schema:OccupationalTherapy",
+            "trigger": "OccupationalTherapy"
+        },
+        {
+            "contents": "schema:PhysicalTherapy",
+            "trigger": "PhysicalTherapy"
+        },
+        {
+            "contents": "schema:RadiationTherapy",
+            "trigger": "RadiationTherapy"
+        },
+        {
+            "contents": "schema:RespiratoryTherapy",
+            "trigger": "RespiratoryTherapy"
+        },
+        {
+            "contents": "schema:PsychologicalTreatment",
+            "trigger": "PsychologicalTreatment"
+        },
+        {
+            "contents": "schema:MedicalRiskEstimator",
+            "trigger": "MedicalRiskEstimator"
+        },
+        {
+            "contents": "schema:MedicalRiskCalculator",
+            "trigger": "MedicalRiskCalculator"
+        },
+        {
+            "contents": "schema:MedicalRiskScore",
+            "trigger": "MedicalRiskScore"
+        },
+        {
+            "contents": "schema:MedicalRiskFactor",
+            "trigger": "MedicalRiskFactor"
+        },
+        {
+            "contents": "schema:MedicalStudy",
+            "trigger": "MedicalStudy"
+        },
+        {
+            "contents": "schema:MedicalObservationalStudy",
+            "trigger": "MedicalObservationalStudy"
+        },
+        {
+            "contents": "schema:MedicalTrial",
+            "trigger": "MedicalTrial"
+        },
+        {
+            "contents": "schema:MedicalTest",
+            "trigger": "MedicalTest"
+        },
+        {
+            "contents": "schema:BloodTest",
+            "trigger": "BloodTest"
+        },
+        {
+            "contents": "schema:ImagingTest",
+            "trigger": "ImagingTest"
+        },
+        {
+            "contents": "schema:MedicalTestPanel",
+            "trigger": "MedicalTestPanel"
+        },
+        {
+            "contents": "schema:PathologyTest",
+            "trigger": "PathologyTest"
+        },
+        {
+            "contents": "schema:Substance",
+            "trigger": "Substance"
+        },
+        {
+            "contents": "schema:DietarySupplement",
+            "trigger": "DietarySupplement"
+        },
+        {
+            "contents": "schema:Drug",
+            "trigger": "Drug"
+        },
+        {
+            "contents": "schema:SuperficialAnatomy",
+            "trigger": "SuperficialAnatomy"
+        },
+        {
+            "contents": "schema:Organization",
+            "trigger": "Organization"
+        },
+        {
+            "contents": "schema:Airline",
+            "trigger": "Airline"
+        },
+        {
+            "contents": "schema:Consortium",
+            "trigger": "Consortium"
+        },
+        {
+            "contents": "schema:Corporation",
+            "trigger": "Corporation"
+        },
+        {
+            "contents": "schema:EducationalOrganization",
+            "trigger": "EducationalOrganization"
+        },
+        {
+            "contents": "schema:CollegeOrUniversity",
+            "trigger": "CollegeOrUniversity"
+        },
+        {
+            "contents": "schema:ElementarySchool",
+            "trigger": "ElementarySchool"
+        },
+        {
+            "contents": "schema:HighSchool",
+            "trigger": "HighSchool"
+        },
+        {
+            "contents": "schema:MiddleSchool",
+            "trigger": "MiddleSchool"
+        },
+        {
+            "contents": "schema:Preschool",
+            "trigger": "Preschool"
+        },
+        {
+            "contents": "schema:School",
+            "trigger": "School"
+        },
+        {
+            "contents": "schema:GovernmentOrganization",
+            "trigger": "GovernmentOrganization"
+        },
+        {
+            "contents": "schema:LibrarySystem",
+            "trigger": "LibrarySystem"
+        },
+        {
+            "contents": "schema:LocalBusiness",
+            "trigger": "LocalBusiness"
+        },
+        {
+            "contents": "schema:AnimalShelter",
+            "trigger": "AnimalShelter"
+        },
+        {
+            "contents": "schema:AutomotiveBusiness",
+            "trigger": "AutomotiveBusiness"
+        },
+        {
+            "contents": "schema:AutoBodyShop",
+            "trigger": "AutoBodyShop"
+        },
+        {
+            "contents": "schema:AutoDealer",
+            "trigger": "AutoDealer"
+        },
+        {
+            "contents": "schema:AutoPartsStore",
+            "trigger": "AutoPartsStore"
+        },
+        {
+            "contents": "schema:AutoRental",
+            "trigger": "AutoRental"
+        },
+        {
+            "contents": "schema:AutoRepair",
+            "trigger": "AutoRepair"
+        },
+        {
+            "contents": "schema:AutoWash",
+            "trigger": "AutoWash"
+        },
+        {
+            "contents": "schema:GasStation",
+            "trigger": "GasStation"
+        },
+        {
+            "contents": "schema:MotorcycleDealer",
+            "trigger": "MotorcycleDealer"
+        },
+        {
+            "contents": "schema:MotorcycleRepair",
+            "trigger": "MotorcycleRepair"
+        },
+        {
+            "contents": "schema:ChildCare",
+            "trigger": "ChildCare"
+        },
+        {
+            "contents": "schema:Dentist",
+            "trigger": "Dentist"
+        },
+        {
+            "contents": "schema:DryCleaningOrLaundry",
+            "trigger": "DryCleaningOrLaundry"
+        },
+        {
+            "contents": "schema:EmergencyService",
+            "trigger": "EmergencyService"
+        },
+        {
+            "contents": "schema:FireStation",
+            "trigger": "FireStation"
+        },
+        {
+            "contents": "schema:Hospital",
+            "trigger": "Hospital"
+        },
+        {
+            "contents": "schema:PoliceStation",
+            "trigger": "PoliceStation"
+        },
+        {
+            "contents": "schema:EmploymentAgency",
+            "trigger": "EmploymentAgency"
+        },
+        {
+            "contents": "schema:EntertainmentBusiness",
+            "trigger": "EntertainmentBusiness"
+        },
+        {
+            "contents": "schema:AdultEntertainment",
+            "trigger": "AdultEntertainment"
+        },
+        {
+            "contents": "schema:AmusementPark",
+            "trigger": "AmusementPark"
+        },
+        {
+            "contents": "schema:ArtGallery",
+            "trigger": "ArtGallery"
+        },
+        {
+            "contents": "schema:Casino",
+            "trigger": "Casino"
+        },
+        {
+            "contents": "schema:ComedyClub",
+            "trigger": "ComedyClub"
+        },
+        {
+            "contents": "schema:MovieTheater",
+            "trigger": "MovieTheater"
+        },
+        {
+            "contents": "schema:NightClub",
+            "trigger": "NightClub"
+        },
+        {
+            "contents": "schema:FinancialService",
+            "trigger": "FinancialService"
+        },
+        {
+            "contents": "schema:AccountingService",
+            "trigger": "AccountingService"
+        },
+        {
+            "contents": "schema:AutomatedTeller",
+            "trigger": "AutomatedTeller"
+        },
+        {
+            "contents": "schema:BankOrCreditUnion",
+            "trigger": "BankOrCreditUnion"
+        },
+        {
+            "contents": "schema:InsuranceAgency",
+            "trigger": "InsuranceAgency"
+        },
+        {
+            "contents": "schema:FoodEstablishment",
+            "trigger": "FoodEstablishment"
+        },
+        {
+            "contents": "schema:Bakery",
+            "trigger": "Bakery"
+        },
+        {
+            "contents": "schema:BarOrPub",
+            "trigger": "BarOrPub"
+        },
+        {
+            "contents": "schema:Brewery",
+            "trigger": "Brewery"
+        },
+        {
+            "contents": "schema:CafeOrCoffeeShop",
+            "trigger": "CafeOrCoffeeShop"
+        },
+        {
+            "contents": "schema:Distillery",
+            "trigger": "Distillery"
+        },
+        {
+            "contents": "schema:FastFoodRestaurant",
+            "trigger": "FastFoodRestaurant"
+        },
+        {
+            "contents": "schema:IceCreamShop",
+            "trigger": "IceCreamShop"
+        },
+        {
+            "contents": "schema:Restaurant",
+            "trigger": "Restaurant"
+        },
+        {
+            "contents": "schema:Winery",
+            "trigger": "Winery"
+        },
+        {
+            "contents": "schema:GovernmentOffice",
+            "trigger": "GovernmentOffice"
+        },
+        {
+            "contents": "schema:PostOffice",
+            "trigger": "PostOffice"
+        },
+        {
+            "contents": "schema:HealthAndBeautyBusiness",
+            "trigger": "HealthAndBeautyBusiness"
+        },
+        {
+            "contents": "schema:BeautySalon",
+            "trigger": "BeautySalon"
+        },
+        {
+            "contents": "schema:DaySpa",
+            "trigger": "DaySpa"
+        },
+        {
+            "contents": "schema:HairSalon",
+            "trigger": "HairSalon"
+        },
+        {
+            "contents": "schema:HealthClub",
+            "trigger": "HealthClub"
+        },
+        {
+            "contents": "schema:NailSalon",
+            "trigger": "NailSalon"
+        },
+        {
+            "contents": "schema:TattooParlor",
+            "trigger": "TattooParlor"
+        },
+        {
+            "contents": "schema:HomeAndConstructionBusiness",
+            "trigger": "HomeAndConstructionBusiness"
+        },
+        {
+            "contents": "schema:Electrician",
+            "trigger": "Electrician"
+        },
+        {
+            "contents": "schema:GeneralContractor",
+            "trigger": "GeneralContractor"
+        },
+        {
+            "contents": "schema:HVACBusiness",
+            "trigger": "HVACBusiness"
+        },
+        {
+            "contents": "schema:HousePainter",
+            "trigger": "HousePainter"
+        },
+        {
+            "contents": "schema:Locksmith",
+            "trigger": "Locksmith"
+        },
+        {
+            "contents": "schema:MovingCompany",
+            "trigger": "MovingCompany"
+        },
+        {
+            "contents": "schema:Plumber",
+            "trigger": "Plumber"
+        },
+        {
+            "contents": "schema:RoofingContractor",
+            "trigger": "RoofingContractor"
+        },
+        {
+            "contents": "schema:InternetCafe",
+            "trigger": "InternetCafe"
+        },
+        {
+            "contents": "schema:LegalService",
+            "trigger": "LegalService"
+        },
+        {
+            "contents": "schema:Attorney",
+            "trigger": "Attorney"
+        },
+        {
+            "contents": "schema:Notary",
+            "trigger": "Notary"
+        },
+        {
+            "contents": "schema:Library",
+            "trigger": "Library"
+        },
+        {
+            "contents": "schema:LodgingBusiness",
+            "trigger": "LodgingBusiness"
+        },
+        {
+            "contents": "schema:BedAndBreakfast",
+            "trigger": "BedAndBreakfast"
+        },
+        {
+            "contents": "schema:Campground",
+            "trigger": "Campground"
+        },
+        {
+            "contents": "schema:Hostel",
+            "trigger": "Hostel"
+        },
+        {
+            "contents": "schema:Hotel",
+            "trigger": "Hotel"
+        },
+        {
+            "contents": "schema:Motel",
+            "trigger": "Motel"
+        },
+        {
+            "contents": "schema:Resort",
+            "trigger": "Resort"
+        },
+        {
+            "contents": "schema:MedicalBusiness",
+            "trigger": "MedicalBusiness"
+        },
+        {
+            "contents": "schema:CommunityHealth",
+            "trigger": "CommunityHealth"
+        },
+        {
+            "contents": "schema:Dermatology",
+            "trigger": "Dermatology"
+        },
+        {
+            "contents": "schema:DietNutrition",
+            "trigger": "DietNutrition"
+        },
+        {
+            "contents": "schema:Emergency",
+            "trigger": "Emergency"
+        },
+        {
+            "contents": "schema:Geriatric",
+            "trigger": "Geriatric"
+        },
+        {
+            "contents": "schema:Gynecologic",
+            "trigger": "Gynecologic"
+        },
+        {
+            "contents": "schema:MedicalClinic",
+            "trigger": "MedicalClinic"
+        },
+        {
+            "contents": "schema:Midwifery",
+            "trigger": "Midwifery"
+        },
+        {
+            "contents": "schema:Nursing",
+            "trigger": "Nursing"
+        },
+        {
+            "contents": "schema:Obstetric",
+            "trigger": "Obstetric"
+        },
+        {
+            "contents": "schema:Oncologic",
+            "trigger": "Oncologic"
+        },
+        {
+            "contents": "schema:Optician",
+            "trigger": "Optician"
+        },
+        {
+            "contents": "schema:Optometric",
+            "trigger": "Optometric"
+        },
+        {
+            "contents": "schema:Otolaryngologic",
+            "trigger": "Otolaryngologic"
+        },
+        {
+            "contents": "schema:Pediatric",
+            "trigger": "Pediatric"
+        },
+        {
+            "contents": "schema:Pharmacy",
+            "trigger": "Pharmacy"
+        },
+        {
+            "contents": "schema:Physician",
+            "trigger": "Physician"
+        },
+        {
+            "contents": "schema:Physiotherapy",
+            "trigger": "Physiotherapy"
+        },
+        {
+            "contents": "schema:PlasticSurgery",
+            "trigger": "PlasticSurgery"
+        },
+        {
+            "contents": "schema:Podiatric",
+            "trigger": "Podiatric"
+        },
+        {
+            "contents": "schema:PrimaryCare",
+            "trigger": "PrimaryCare"
+        },
+        {
+            "contents": "schema:Psychiatric",
+            "trigger": "Psychiatric"
+        },
+        {
+            "contents": "schema:PublicHealth",
+            "trigger": "PublicHealth"
+        },
+        {
+            "contents": "schema:ProfessionalService",
+            "trigger": "ProfessionalService"
+        },
+        {
+            "contents": "schema:RadioStation",
+            "trigger": "RadioStation"
+        },
+        {
+            "contents": "schema:RealEstateAgent",
+            "trigger": "RealEstateAgent"
+        },
+        {
+            "contents": "schema:RecyclingCenter",
+            "trigger": "RecyclingCenter"
+        },
+        {
+            "contents": "schema:SelfStorage",
+            "trigger": "SelfStorage"
+        },
+        {
+            "contents": "schema:ShoppingCenter",
+            "trigger": "ShoppingCenter"
+        },
+        {
+            "contents": "schema:SportsActivityLocation",
+            "trigger": "SportsActivityLocation"
+        },
+        {
+            "contents": "schema:BowlingAlley",
+            "trigger": "BowlingAlley"
+        },
+        {
+            "contents": "schema:ExerciseGym",
+            "trigger": "ExerciseGym"
+        },
+        {
+            "contents": "schema:GolfCourse",
+            "trigger": "GolfCourse"
+        },
+        {
+            "contents": "schema:PublicSwimmingPool",
+            "trigger": "PublicSwimmingPool"
+        },
+        {
+            "contents": "schema:SkiResort",
+            "trigger": "SkiResort"
+        },
+        {
+            "contents": "schema:SportsClub",
+            "trigger": "SportsClub"
+        },
+        {
+            "contents": "schema:StadiumOrArena",
+            "trigger": "StadiumOrArena"
+        },
+        {
+            "contents": "schema:TennisComplex",
+            "trigger": "TennisComplex"
+        },
+        {
+            "contents": "schema:Store",
+            "trigger": "Store"
+        },
+        {
+            "contents": "schema:BikeStore",
+            "trigger": "BikeStore"
+        },
+        {
+            "contents": "schema:BookStore",
+            "trigger": "BookStore"
+        },
+        {
+            "contents": "schema:ClothingStore",
+            "trigger": "ClothingStore"
+        },
+        {
+            "contents": "schema:ComputerStore",
+            "trigger": "ComputerStore"
+        },
+        {
+            "contents": "schema:ConvenienceStore",
+            "trigger": "ConvenienceStore"
+        },
+        {
+            "contents": "schema:DepartmentStore",
+            "trigger": "DepartmentStore"
+        },
+        {
+            "contents": "schema:ElectronicsStore",
+            "trigger": "ElectronicsStore"
+        },
+        {
+            "contents": "schema:Florist",
+            "trigger": "Florist"
+        },
+        {
+            "contents": "schema:FurnitureStore",
+            "trigger": "FurnitureStore"
+        },
+        {
+            "contents": "schema:GardenStore",
+            "trigger": "GardenStore"
+        },
+        {
+            "contents": "schema:GroceryStore",
+            "trigger": "GroceryStore"
+        },
+        {
+            "contents": "schema:HardwareStore",
+            "trigger": "HardwareStore"
+        },
+        {
+            "contents": "schema:HobbyShop",
+            "trigger": "HobbyShop"
+        },
+        {
+            "contents": "schema:HomeGoodsStore",
+            "trigger": "HomeGoodsStore"
+        },
+        {
+            "contents": "schema:JewelryStore",
+            "trigger": "JewelryStore"
+        },
+        {
+            "contents": "schema:LiquorStore",
+            "trigger": "LiquorStore"
+        },
+        {
+            "contents": "schema:MensClothingStore",
+            "trigger": "MensClothingStore"
+        },
+        {
+            "contents": "schema:MobilePhoneStore",
+            "trigger": "MobilePhoneStore"
+        },
+        {
+            "contents": "schema:MovieRentalStore",
+            "trigger": "MovieRentalStore"
+        },
+        {
+            "contents": "schema:MusicStore",
+            "trigger": "MusicStore"
+        },
+        {
+            "contents": "schema:OfficeEquipmentStore",
+            "trigger": "OfficeEquipmentStore"
+        },
+        {
+            "contents": "schema:OutletStore",
+            "trigger": "OutletStore"
+        },
+        {
+            "contents": "schema:PawnShop",
+            "trigger": "PawnShop"
+        },
+        {
+            "contents": "schema:PetStore",
+            "trigger": "PetStore"
+        },
+        {
+            "contents": "schema:ShoeStore",
+            "trigger": "ShoeStore"
+        },
+        {
+            "contents": "schema:SportingGoodsStore",
+            "trigger": "SportingGoodsStore"
+        },
+        {
+            "contents": "schema:TireShop",
+            "trigger": "TireShop"
+        },
+        {
+            "contents": "schema:ToyStore",
+            "trigger": "ToyStore"
+        },
+        {
+            "contents": "schema:WholesaleStore",
+            "trigger": "WholesaleStore"
+        },
+        {
+            "contents": "schema:TelevisionStation",
+            "trigger": "TelevisionStation"
+        },
+        {
+            "contents": "schema:TouristInformationCenter",
+            "trigger": "TouristInformationCenter"
+        },
+        {
+            "contents": "schema:TravelAgency",
+            "trigger": "TravelAgency"
+        },
+        {
+            "contents": "schema:MedicalOrganization",
+            "trigger": "MedicalOrganization"
+        },
+        {
+            "contents": "schema:DiagnosticLab",
+            "trigger": "DiagnosticLab"
+        },
+        {
+            "contents": "schema:VeterinaryCare",
+            "trigger": "VeterinaryCare"
+        },
+        {
+            "contents": "schema:NGO",
+            "trigger": "NGO"
+        },
+        {
+            "contents": "schema:NewsMediaOrganization",
+            "trigger": "NewsMediaOrganization"
+        },
+        {
+            "contents": "schema:PerformingGroup",
+            "trigger": "PerformingGroup"
+        },
+        {
+            "contents": "schema:DanceGroup",
+            "trigger": "DanceGroup"
+        },
+        {
+            "contents": "schema:MusicGroup",
+            "trigger": "MusicGroup"
+        },
+        {
+            "contents": "schema:TheaterGroup",
+            "trigger": "TheaterGroup"
+        },
+        {
+            "contents": "schema:SportsOrganization",
+            "trigger": "SportsOrganization"
+        },
+        {
+            "contents": "schema:SportsTeam",
+            "trigger": "SportsTeam"
+        },
+        {
+            "contents": "schema:WorkersUnion",
+            "trigger": "WorkersUnion"
+        },
+        {
+            "contents": "schema:Person",
+            "trigger": "Person"
+        },
+        {
+            "contents": "schema:Place",
+            "trigger": "Place"
+        },
+        {
+            "contents": "schema:Accommodation",
+            "trigger": "Accommodation"
+        },
+        {
+            "contents": "schema:Apartment",
+            "trigger": "Apartment"
+        },
+        {
+            "contents": "schema:CampingPitch",
+            "trigger": "CampingPitch"
+        },
+        {
+            "contents": "schema:House",
+            "trigger": "House"
+        },
+        {
+            "contents": "schema:SingleFamilyResidence",
+            "trigger": "SingleFamilyResidence"
+        },
+        {
+            "contents": "schema:Room",
+            "trigger": "Room"
+        },
+        {
+            "contents": "schema:HotelRoom",
+            "trigger": "HotelRoom"
+        },
+        {
+            "contents": "schema:MeetingRoom",
+            "trigger": "MeetingRoom"
+        },
+        {
+            "contents": "schema:Suite",
+            "trigger": "Suite"
+        },
+        {
+            "contents": "schema:AdministrativeArea",
+            "trigger": "AdministrativeArea"
+        },
+        {
+            "contents": "schema:City",
+            "trigger": "City"
+        },
+        {
+            "contents": "schema:Country",
+            "trigger": "Country"
+        },
+        {
+            "contents": "schema:State",
+            "trigger": "State"
+        },
+        {
+            "contents": "schema:CivicStructure",
+            "trigger": "CivicStructure"
+        },
+        {
+            "contents": "schema:Airport",
+            "trigger": "Airport"
+        },
+        {
+            "contents": "schema:Aquarium",
+            "trigger": "Aquarium"
+        },
+        {
+            "contents": "schema:Beach",
+            "trigger": "Beach"
+        },
+        {
+            "contents": "schema:Bridge",
+            "trigger": "Bridge"
+        },
+        {
+            "contents": "schema:BusStation",
+            "trigger": "BusStation"
+        },
+        {
+            "contents": "schema:BusStop",
+            "trigger": "BusStop"
+        },
+        {
+            "contents": "schema:Cemetery",
+            "trigger": "Cemetery"
+        },
+        {
+            "contents": "schema:Crematorium",
+            "trigger": "Crematorium"
+        },
+        {
+            "contents": "schema:EventVenue",
+            "trigger": "EventVenue"
+        },
+        {
+            "contents": "schema:GovernmentBuilding",
+            "trigger": "GovernmentBuilding"
+        },
+        {
+            "contents": "schema:CityHall",
+            "trigger": "CityHall"
+        },
+        {
+            "contents": "schema:Courthouse",
+            "trigger": "Courthouse"
+        },
+        {
+            "contents": "schema:DefenceEstablishment",
+            "trigger": "DefenceEstablishment"
+        },
+        {
+            "contents": "schema:Embassy",
+            "trigger": "Embassy"
+        },
+        {
+            "contents": "schema:LegislativeBuilding",
+            "trigger": "LegislativeBuilding"
+        },
+        {
+            "contents": "schema:Museum",
+            "trigger": "Museum"
+        },
+        {
+            "contents": "schema:MusicVenue",
+            "trigger": "MusicVenue"
+        },
+        {
+            "contents": "schema:Park",
+            "trigger": "Park"
+        },
+        {
+            "contents": "schema:ParkingFacility",
+            "trigger": "ParkingFacility"
+        },
+        {
+            "contents": "schema:PerformingArtsTheater",
+            "trigger": "PerformingArtsTheater"
+        },
+        {
+            "contents": "schema:PlaceOfWorship",
+            "trigger": "PlaceOfWorship"
+        },
+        {
+            "contents": "schema:BuddhistTemple",
+            "trigger": "BuddhistTemple"
+        },
+        {
+            "contents": "schema:CatholicChurch",
+            "trigger": "CatholicChurch"
+        },
+        {
+            "contents": "schema:Church",
+            "trigger": "Church"
+        },
+        {
+            "contents": "schema:HinduTemple",
+            "trigger": "HinduTemple"
+        },
+        {
+            "contents": "schema:Mosque",
+            "trigger": "Mosque"
+        },
+        {
+            "contents": "schema:Synagogue",
+            "trigger": "Synagogue"
+        },
+        {
+            "contents": "schema:Playground",
+            "trigger": "Playground"
+        },
+        {
+            "contents": "schema:PublicToilet",
+            "trigger": "PublicToilet"
+        },
+        {
+            "contents": "schema:RVPark",
+            "trigger": "RVPark"
+        },
+        {
+            "contents": "schema:SubwayStation",
+            "trigger": "SubwayStation"
+        },
+        {
+            "contents": "schema:TaxiStand",
+            "trigger": "TaxiStand"
+        },
+        {
+            "contents": "schema:TrainStation",
+            "trigger": "TrainStation"
+        },
+        {
+            "contents": "schema:Zoo",
+            "trigger": "Zoo"
+        },
+        {
+            "contents": "schema:Landform",
+            "trigger": "Landform"
+        },
+        {
+            "contents": "schema:BodyOfWater",
+            "trigger": "BodyOfWater"
+        },
+        {
+            "contents": "schema:Canal",
+            "trigger": "Canal"
+        },
+        {
+            "contents": "schema:LakeBodyOfWater",
+            "trigger": "LakeBodyOfWater"
+        },
+        {
+            "contents": "schema:OceanBodyOfWater",
+            "trigger": "OceanBodyOfWater"
+        },
+        {
+            "contents": "schema:Pond",
+            "trigger": "Pond"
+        },
+        {
+            "contents": "schema:Reservoir",
+            "trigger": "Reservoir"
+        },
+        {
+            "contents": "schema:RiverBodyOfWater",
+            "trigger": "RiverBodyOfWater"
+        },
+        {
+            "contents": "schema:SeaBodyOfWater",
+            "trigger": "SeaBodyOfWater"
+        },
+        {
+            "contents": "schema:Waterfall",
+            "trigger": "Waterfall"
+        },
+        {
+            "contents": "schema:Continent",
+            "trigger": "Continent"
+        },
+        {
+            "contents": "schema:Mountain",
+            "trigger": "Mountain"
+        },
+        {
+            "contents": "schema:Volcano",
+            "trigger": "Volcano"
+        },
+        {
+            "contents": "schema:LandmarksOrHistoricalBuildings",
+            "trigger": "LandmarksOrHistoricalBuildings"
+        },
+        {
+            "contents": "schema:Residence",
+            "trigger": "Residence"
+        },
+        {
+            "contents": "schema:ApartmentComplex",
+            "trigger": "ApartmentComplex"
+        },
+        {
+            "contents": "schema:GatedResidenceCommunity",
+            "trigger": "GatedResidenceCommunity"
+        },
+        {
+            "contents": "schema:TouristAttraction",
+            "trigger": "TouristAttraction"
+        },
+        {
+            "contents": "schema:Product",
+            "trigger": "Product"
+        },
+        {
+            "contents": "schema:IndividualProduct",
+            "trigger": "IndividualProduct"
+        },
+        {
+            "contents": "schema:ProductModel",
+            "trigger": "ProductModel"
+        },
+        {
+            "contents": "schema:SomeProducts",
+            "trigger": "SomeProducts"
+        },
+        {
+            "contents": "schema:Vehicle",
+            "trigger": "Vehicle"
+        },
+        {
+            "contents": "schema:BusOrCoach",
+            "trigger": "BusOrCoach"
+        },
+        {
+            "contents": "schema:Car",
+            "trigger": "Car"
+        },
+        {
+            "contents": "schema:Motorcycle",
+            "trigger": "Motorcycle"
+        },
+        {
+            "contents": "schema:MotorizedBicycle",
+            "trigger": "MotorizedBicycle"
+        },
+        {
+            "contents": "schema:StupidType",
+            "trigger": "StupidType"
+        }
+    ],
+    "scope": "source.shex"
+}
