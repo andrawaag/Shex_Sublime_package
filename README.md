@@ -1,8 +1,17 @@
 # Shex_Sublime_package
-(https://www.sublimetext.com/)[Sublime Text] allows autocompletion. This repository contains different autocompletion files to allow completion of different
-controlled vocabularies and ontologies (e.g. Wikidata properties and OBO).
 
-In the ''sublime_shex_completion_generators'' folder python scripts are provided that allow generating these autocompletion files from 
-the different sources
+The (https://www.sublimetext.com/)[Sublime Text] editors support packages which are a collection of support files. This repository contains different packages to support writing shape expressions (ShEx) in Sublime text. 
+ The basic feature of these packages is to support autocompletion. 
+ 
+Either by providing templates (currently only available in the package supporting writing ShEx files
+for validating content in Wikidata.) or resolving prefered labels to the prefix driven IRI's. 
 
-A more detailed installation instruction will follow shortly, in the mean time please rely on https://www.sublimetext.com/docs/3/packages.html
+## Installation 
+After downloading the different packages, they can be installed by saving them in one of the following folders: 
+
+* <executable_path>/Packages/
+* <data_path>/Installed Packages/
+
+On an Apple computer the exact location where the user packages are stored can also be found by consulting the "Browse packages..." submenu in the preferences. (Can anyone tell how this is done on other platforms?)
+
+![Screendump of retrieving user package location]{/pix/packagePreferences.png}
