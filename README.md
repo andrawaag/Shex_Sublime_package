@@ -40,7 +40,7 @@ The main feature of these ShEx packages is substituting terms into the local nam
 <center><img src="./pix/substitution.gif" width="250"></center>
 
 ### ShEx autocompletion
-Currently this is only available in the ShEx package for Wikidata properties and items.
+Currently this is only available in the ShEx package for writing shape expressions for Wikidata.
 To facilitate writing shape expressions for Wikidata content currently two templates have been created
 One for commonly used Wikidata prefixes and one for the shape of a Wikidata statement. Both 
 can be selected by typing "wikidata" in a ShEx scoped sublime window. 
