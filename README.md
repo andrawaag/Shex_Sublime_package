@@ -14,4 +14,4 @@ After downloading the different packages, they can be installed by saving them i
 
 On an Apple computer the exact location where the user packages are stored can also be found by consulting the "Browse packages..." submenu in the preferences. (Can anyone tell how this is done on other platforms?)
 
-![Screendump of retrieving user package location]{/pix/packagePreferences.png}
+![Screendump of retrieving user package location](https://cdn.rawgit.com/andrawaag/Shex_Sublime_package/283db6f8/pix/packagePreferences.png) 
