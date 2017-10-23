@@ -38,3 +38,13 @@ The main feature of these ShEx packages is substituting terms into the local nam
  Typing "SNP" will be substituted into "obo:SO_0000694"
   
 <center><img src="./pix/substitution.gif" width="250"></center>
+
+### ShEx autocompletion
+Currently this is only available in the ShEx package for Wikidata properties and items.
+To facilitate writing shape expressions for Wikidata content currently two templates have been created
+One for commonly used Wikidata prefixes and one for the shape of a Wikidata statement. Both 
+can be selected by typing "wikidata" in a ShEx scoped sublime window. 
+ 
+ <center><img src="./pix/autocompletion.gif" width="450"></center>
+ 
+
